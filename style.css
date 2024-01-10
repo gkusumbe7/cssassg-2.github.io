@@ -39,7 +39,7 @@ header{
 article{
     padding: 65px;
     margin: 15px 20px 5px 20px;
-    height: 400px;
+    height: 350px;
     width: 60%;
     background-color: rgb(52,201,255);
 }
@@ -49,4 +49,11 @@ article{
     margin: 10px;
     height: 30%;
     width: 50%;
+}
+
+aside{
+    margin: 15px 15px 5px 0px;
+    background-color: rgb(217,217,217);
+    height: 350px;
+    width: 40%;
 }
