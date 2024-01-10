@@ -31,3 +31,22 @@ header{
     height: 30px;
     width: 100px;
 }
+
+.article-aside{
+    display: flex;
+}
+
+article{
+    padding: 65px;
+    margin: 15px 20px 5px 20px;
+    height: 400px;
+    width: 60%;
+    background-color: rgb(52,201,255);
+}
+
+.article-section{
+    background-color: rgb(162,225,253);
+    margin: 10px;
+    height: 30%;
+    width: 50%;
+}
