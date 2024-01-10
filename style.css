@@ -20,7 +20,7 @@ header{
     justify-content:space-between;
 
     justify-content: end;
-    margin: 20px;
+    margin: 5px 20px 5px 20px;
     background-color: rgb(254,166,133);
     height: 10%;
 }
@@ -56,4 +56,18 @@ aside{
     background-color: rgb(217,217,217);
     height: 350px;
     width: 40%;
+    padding: 10px;
+}
+
+.aside-section{
+    background-color: rgb(233,233,233);
+    height: 100px;
+    width: 300px;
+    margin: 10px;
+}
+
+footer{
+    margin: 5px 15px 0px 20px;
+    background-color: rgb(254,166,133);
+    height: 10%;
 }
